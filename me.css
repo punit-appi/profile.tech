@@ -1,0 +1,53 @@
+*{
+    background-color:black;
+}
+.navbar{
+    color: red;
+font-style: oblique;
+display: flex;
+justify-content: space-evenly;
+
+}
+h1{
+    color: red;
+    font-style: italic;
+    height: 50px;
+    width: 100px;
+}
+.red{
+    color: red;
+}
+p{
+    color: white;
+}
+table{
+    border-radius: 10px;
+}
+a:visited{
+    color:white;
+    
+}
+th {
+    color: gold;
+}
+tr{
+    color: aliceblue;
+}
+.p {
+    color: black;
+}
+#st {
+    color: yellow;
+    font-variant: small-caps;
+    font-size: large;
+}
+a:hover {
+    background-color: white;
+    color: red;
+}
+a:link {
+    color: yellow;
+}
+a:active {
+    color: aqua;
+}
